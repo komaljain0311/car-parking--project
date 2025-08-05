@@ -70,7 +70,7 @@ Ensure the YOLOv8 weights file (`yolov8m.pt`) is in the working directory. It sh
 
 
 
-## 📷 Sample Videos
+## 📷 Sample Videos(make  sure all videos are in 1 folder )
 
 Make sure sample videos (`easy1.mp4`, `easy2.mp4`, etc.) are placed in the `videos/` directory. You can add more videos and draw slot files for each.
 
@@ -79,3 +79,4 @@ Make sure sample videos (`easy1.mp4`, `easy2.mp4`, etc.) are placed in the `vide
 **Komal Jain**  
 [Teerthanker Mahaveer University]  
 Project submitted to **Cogent infotech**
+
